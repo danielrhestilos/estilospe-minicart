@@ -3,7 +3,7 @@
     "allowed": ["sandbox", "product-summary"],
     "component": "index"
   },
-  "minicart.v2": {
+  "estilos-minicart2": {
     "component": "Minicart",
     "composition": "children"
   },
